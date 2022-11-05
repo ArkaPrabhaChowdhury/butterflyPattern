@@ -16,7 +16,7 @@ public class Main
 	//1st part
 	for (int j = 1; j <= i; j++)
 	  {
-	    System.out.print ("*");
+	    System.out.print ("Gagan ");
 	  }
 
 	//Spaces
